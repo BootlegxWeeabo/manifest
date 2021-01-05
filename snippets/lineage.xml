@@ -43,6 +43,7 @@
   <!-- Frameworks -->
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="lineage" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="lineage" />
+  <project path="frameworks/minikin" name="android_frameworks_minikin" remote="lineage" />
 
   <!-- Hardware -->
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="lineage" />
@@ -129,6 +130,7 @@
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
   <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
   <project path="system/nfc" name="android_system_nfc" remote="lineage" />
+  <project path="system/security" name="android_system_security" remote="lineage" />
 
   <!-- Packages-->
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="lineage" />
