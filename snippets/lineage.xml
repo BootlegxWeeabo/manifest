@@ -8,6 +8,7 @@
   <!-- General -->
   <project path="art" name="android_art" remote="lineage" />
   <project path="platform_testing" name="android_platform_testing" remote="lineage" />
+  <project path="libcore" name="android_libcore" remote="lineage" />
 
   <!-- External -->
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" remote="lineage" />
@@ -25,6 +26,9 @@
   <project path="external/libncurses" name="android_external_libncurses" remote="lineage" />
   <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="lineage" />
   <project path="external/libaom" name="android_external_libaom" remote="lineage" />
+  <project path="external/libavc" name="android_external_libavc" remote="lineage" />
+  <project path="external/okhttp" name="android_external_okhttp" remote="lineage" />
+  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="lineage" />
   <project path="external/mksh" name="android_external_mksh" remote="lineage" />
   <project path="external/nano" name="android_external_nano" remote="lineage" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="lineage" />
