@@ -47,6 +47,7 @@
   <project path="external/zip" name="android_external_zip" remote="lineage" />
 
   <!-- Frameworks -->
+  <project path="frameworks/hardware/interfaces" name="android_frameworks_hardware_interfaces" remote="lineage" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="lineage" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="lineage" />
   <project path="frameworks/minikin" name="android_frameworks_minikin" remote="lineage" />
