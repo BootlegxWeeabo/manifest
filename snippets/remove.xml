@@ -55,6 +55,7 @@
   <remove-project name="platform/build/soong" />
   <remove-project name="platform/external/ARMComputeLibrary" />
   <remove-project name="platform/external/chromium-webview" />
+  <remove-project name="platform/external/chromium-libpac" />
   <remove-project name="platform/external/dnsmasq" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/libaom" />

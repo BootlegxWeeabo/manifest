@@ -19,6 +19,7 @@
   <project path="external/libexif" name="android_external_libexif" remote="lineage" />
   <project path="external/connectivity" name="android_external_connectivity" remote="lineage" />
   <project path="external/chromium-webview" name="android_external_chromium-webview" remote="lineage" revision="master" clone-depth="1" />
+  <project path="external/chromium-libpac" name="android_external_chromium-libpac" remote="lineage" />
   <project path="external/dnsmasq" name="android_external_dnsmasq" remote="lineage" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="lineage" />
   <project path="external/exfat" name="android_external_exfat" remote="lineage" />
