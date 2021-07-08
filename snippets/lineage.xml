@@ -49,6 +49,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/hardware/interfaces" name="android_frameworks_hardware_interfaces" remote="lineage" />
+  <project path="frameworks/opt/net/voip" name="android_frameworks_opt_net_voip" remote="lineage" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="lineage" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="lineage" />
   <project path="frameworks/minikin" name="android_frameworks_minikin" remote="lineage" />
@@ -136,6 +137,7 @@
   <!-- System -->
   <project path="system/bpf" name="android_system_bpf" remote="lineage" />
   <project path="system/connectivity/wificond" name="android_system_connectivity_wificond" remote="lineage" />
+  <project path="system/libfmq" name="android_system_libfmq" remote="lineage" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
   <project path="system/tools/hidl" name="android_system_tools_hidl" remote="lineage" />
   <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
@@ -152,6 +154,7 @@
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="lineage" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="lineage" />
   <project path="packages/apps/PermissionController" name="android_packages_apps_PackageInstaller" remote="lineage" />
+  <project path="packages/modules/NetworkStack" name="android_packages_modules_NetworkStack" remote="lineage" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="lineage" />
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="lineage" />
 
