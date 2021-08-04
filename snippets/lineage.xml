@@ -40,6 +40,7 @@
   <project path="external/rsync" name="android_external_rsync" remote="lineage" />
   <project path="external/selinux" name="android_external_selinux" remote="lineage" />
   <project path="external/skia" name="android_external_skia" remote="lineage" />
+  <project path="external/sqlite" name="android_external_sqlite" remote="lineage" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" remote="lineage" />
   <project path="external/sonivox" name="android_external_sonivox" remote="lineage" />
   <project path="external/unrar" name="android_external_unrar" remote="lineage" />
@@ -138,6 +139,7 @@
   <project path="system/bpf" name="android_system_bpf" remote="lineage" />
   <project path="system/connectivity/wificond" name="android_system_connectivity_wificond" remote="lineage" />
   <project path="system/libfmq" name="android_system_libfmq" remote="lineage" />
+  <project path="system/libhwbinder" name="android_system_libhwbinder" remote="lineage" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
   <project path="system/tools/hidl" name="android_system_tools_hidl" remote="lineage" />
   <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
