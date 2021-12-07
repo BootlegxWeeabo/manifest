@@ -42,6 +42,7 @@
   <project path="external/skia" name="android_external_skia" remote="lineage" />
   <project path="external/sqlite" name="android_external_sqlite" remote="lineage" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" remote="lineage" />
+  <project path="external/tremolo" name="android_external_tremolo" remote="lineage" />
   <project path="external/sonivox" name="android_external_sonivox" remote="lineage" />
   <project path="external/unrar" name="android_external_unrar" remote="lineage" />
   <project path="external/vim" name="android_external_vim" remote="lineage" />

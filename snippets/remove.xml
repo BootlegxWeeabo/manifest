@@ -79,6 +79,8 @@
   <remove-project name="platform/external/aac" />
   <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/v8" />
+  <remove-project name="platform/external/tremolo" />
+
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/minikin" />
@@ -114,6 +116,7 @@
   <remove-project name="platform/packages/apps/DevCamera" />
   <remove-project name="platform/packages/apps/Dialer" />
   <remove-project name="platform/packages/apps/Gallery" />
+  <remove-project name="platform/packages/apps/KeyChain" />
   <remove-project name="platform/packages/apps/Launcher3" />
   <remove-project name="platform/packages/apps/LegacyCamera" />
   <remove-project name="platform/packages/apps/Messaging" />
