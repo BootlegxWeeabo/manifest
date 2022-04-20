@@ -49,6 +49,8 @@
 
   <!-- External -->
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="weebs" />
+  <project path="external/motorola/faceunlock-res" name="external_motorola_faceunlock-res" remote="weebs" />
+  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="weebs" />
   <project path="external/pulse" name="external_pulse" remote="weebs" />
   <project path="external/tinycompress" name="external_tinycompress" remote="weebs" />
 
