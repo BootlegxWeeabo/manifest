@@ -100,6 +100,7 @@
   <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="weebs" />
   <project path="packages/apps/KeyChain" name="packages_apps_KeyChain" remote="weebs" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="weebs" />
+  <project path="packages/apps/Nekopoi" name="packages_apps_Nekopoi" remote="weebs" />
   <project path="packages/apps/Phonograph" name="packages_apps_Phonograph" remote="weebs" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="weebs" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="weebs" />
