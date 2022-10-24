@@ -125,6 +125,7 @@
   <project path="system/bt" name="system_bt" remote="weebs" />
   <project path="system/core" name="system_core" remote="weebs" />
   <project path="system/netd" name="system_netd" remote="weebs" />
+  <project path="system/security" name="system_security" remote="weebs" />
   <project path="system/sepolicy" name="system_sepolicy" remote="weebs" />
   <project path="system/vold" name="system_vold" remote="weebs" />
 
